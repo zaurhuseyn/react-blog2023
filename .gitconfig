@@ -1,0 +1,6 @@
+[user]
+	name = Zaur Huseyn
+	email = vzrosliy93@yandex.ru
+[core]
+	editor = code --wait
+	autocrlf = input
